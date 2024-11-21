@@ -4,3 +4,14 @@
 // are not accessible in this file but you can override any global variable as shown below:
 //
 
+// Border Radiues
+$border-radius-lg:                                  1.75rem;
+
+// Card
+$card-border-radius:                				0.9rem;
+
+// Accordion
+$accordion-border-radius:                           $card-border-radius;
+
+// Modal
+$modal-content-border-radius:                       $card-border-radius;
